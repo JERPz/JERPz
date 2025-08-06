@@ -31,7 +31,19 @@
 ---
 
 ### 📊 GitHub Stats
+
 ![jerpz GitHub stats](https://github-readme-stats.vercel.app/api?username=jerpz&show_icons=true&theme=radical)
+
+---
+
+### 📈 Top Languages
+
+<a href="https://github.com/jerpz" align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerpz&langs_count=10&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=1e1e2f&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" 
+    alt="Top Languages Bar Chart" 
+  />
+</a>
 
 ---
 
