@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeeraphol Khangraeng (jerpz)</h1>
+<h1 align="center">Hi 👋, I'm Jeeraphol Khangraeng (JERPz)</h1>
 <h3 align="center">Fourth-year student at KMITL 🇹🇭</h3>
 
 ---
