@@ -19,7 +19,6 @@
     <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
     <td><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
     <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
-    <td><img alt="Bun.js" src="https://img.shields.io/badge/-Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white" /></td>
   </tr>
 </table>
 
