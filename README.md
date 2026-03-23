@@ -1,31 +1,44 @@
 <h1 align="center">Hi 👋, I'm Jeeraphol Khangraeng (JERPz)</h1>
-<h3 align="center">Fourth-year student at KMITL 🇹🇭</h3>
+<h3 align="center">Frontend Developer • KMITL Student 🇹🇭</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m a beginner in Web Development, eager to learn and grow.
-- 🔭 Currently exploring JavaScript, Vue.js, and modern web tools.
-- 👯 Interested in open-source projects and collaborative coding.
-- 💬 Feel free to ask me about coding basics, problem-solving, and clean code practices.
-- ⚡ Fun fact: I enjoy solving coding challenges and discovering new tech stacks.
+- 🚀 Frontend developer focused on building interactive and modern web experiences  
+- 💻 Experienced in JavaScript, Vue.js, and UI-driven development  
+- 🧠 Strong interest in product thinking and system design  
+- 🔧 Currently developing a full-stack hotel reservation system  
+- 🎯 Passionate about turning ideas into real, usable products  
 
 ---
 
 ### 🛠️ Technologies & Tools
 <table>
   <tr>
-    <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /></td>
-    <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></td>
+    <td><img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" /></td>
+    <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></td>
+    <td><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
+  </tr>
+  <tr>
     <td><img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
     <td><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    <td><img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" /></td>
+    <td><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td>
   </tr>
 </table>
 
 ---
 
+### 🌐 Portfolio
+- https://jerpz.github.io/spark-soda-mockup/
+- https://jerpz.github.io/hotel-reservation-system/
+- https://jerpz.github.io/nited-kaset-blog/
+
+---
+
 ### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerpz)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jerpz)
 
 ---
 
@@ -47,5 +60,5 @@
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>“Not just code — I build experiences.”</em>
 </p>
